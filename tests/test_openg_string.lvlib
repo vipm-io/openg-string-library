@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="support" Type="Folder">
 		<Item Name="Format Variant Into String.txt" Type="Document" URL="../support/Format Variant Into String.txt"/>
 		<Item Name="Setup - Forrmat Variant Into String.vi" Type="VI" URL="../support/Setup - Forrmat Variant Into String.vi"/>
@@ -22,6 +23,7 @@
 	<Item Name="TEST - Resolve Timestamp Format.vi" Type="VI" URL="../TEST - Resolve Timestamp Format.vi"/>
 	<Item Name="TEST - Scan Variant from String.vi" Type="VI" URL="../TEST - Scan Variant from String.vi"/>
 	<Item Name="TEST - Search or Split String.vi" Type="VI" URL="../TEST - Search or Split String.vi"/>
+	<Item Name="TEST - Slice String 2.vi" Type="VI" URL="../TEST - Slice String 2.vi"/>
 	<Item Name="TEST - Slice String 1.vi" Type="VI" URL="../TEST - Slice String 1.vi"/>
 	<Item Name="TEST - Slice String.vi" Type="VI" URL="../TEST - Slice String.vi"/>
 	<Item Name="TEST - String to 1D Array.vi" Type="VI" URL="../TEST - String to 1D Array.vi"/>
